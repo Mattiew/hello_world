@@ -1,5 +1,5 @@
-string = "Hello World"
+string = "Hello World" #definition de la chaine de caractère
 
-print(string)
+print(string) #affichage de la chaine
 
 
